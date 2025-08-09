@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "date": "2023-07-01",
+    "description": "Comprar ropa",
+    "amount": 100,
+    "category": "General"
+  },
+  {
+    "id": 2,
+    "date": "2023-07-02",
+    "description": "Comprar ropa",
+    "amount": 100,
+    "category": "General"
+  },
+  {
+    "id": 3,
+    "date": "2023-07-03",
+    "description": "Comprar ropa",
+    "amount": 100,
+    "category": "General"
+  },
+  {
+    "id": 4,
+    "date": "2025-08-08",
+    "description": "Lunch",
+    "amount": 20,
+    "category": "General"
+  },
+  {
+    "id": 5,
+    "date": "2025-08-08",
+    "description": "Dinner",
+    "amount": 100,
+    "category": "General"
+  },
+  {
+    "id": 6,
+    "date": "2025-08-08",
+    "description": "Meriendas Gym",
+    "amount": 500,
+    "category": "General"
+  }
+]
